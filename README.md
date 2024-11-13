@@ -1,11 +1,15 @@
-### ⚠️ It is highly recommended that you *do not* use these plate files with an aftermarket Filco Majestouch 2 TKL PCB, other than specifically [Phantom TKL](https://deskthority.net/wiki/Phantom) compatible PCBs, as there is *zero* guarantee that such PCBs will be compatible with this plate, or other Phantom TKL derived plate files, due to differences in switch/clustre spacing and or stabilizer orientation ⚠️
-
 # What is this?
-These are modified [Phantom TKL keyboard plate files](https://github.com/mohitg11/GH-CAD-Resources) with a *completely fixed* layout, and a controller cutout that makes these compatible with OEM Filco Majestouch 2 TKL PCBs.  
-***Only compatible with all south-facing & plate-mounted Cherry-style stabilizers, and the default US-ANSI Majestouch 2 TKL keyboard layout.***  
+These are modified [Phantom TKL keyboard plate files](https://github.com/mohitg11/GH-CAD-Resources) with a *completely fixed* layout, and a controller cutout that makes these compatible with OEM Filco Majestouch 2 TKL PCBs  
+
+## Compatbility
+- OEM Filco Majestouch 2 TKL PCBs (tested, confirmed to work, see below) or [Phantom TKL](https://deskthority.net/wiki/Phantom) footprint PCBs
+> [!WARNING]
+> I cannot be held liable if you use any other PCB that doesn't meet these above criteria and something doesn't work
+- US-ANSI layout with 6.25U bottom row
+- All south-facing Cherry-style plate mount stabilizers
 
 ## Gallery
-(Photos courtesy of Christian)
+(Photos courtesy of christian)
 
 ![DSCF0167-2](https://github.com/Druah/filco-phantom-tkl-plates/assets/54309603/3592c0b7-855f-48a3-ba0f-7d3d0c8a1cf3)
 ![DSCF0164](https://github.com/Druah/filco-phantom-tkl-plates/assets/54309603/22d00ee5-9388-456d-a641-9cd52f83d542)
