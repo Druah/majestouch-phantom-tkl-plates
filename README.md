@@ -1,7 +1,7 @@
 # What is this?
 These are modified [Phantom TKL keyboard plate files](https://github.com/mohitg11/GH-CAD-Resources) with a *completely fixed* layout, and a controller cutout that makes these compatible with OEM Filco Majestouch 2 TKL PCBs  
 
-## Compatbility
+## Compatibility
 - OEM Filco Majestouch 2 TKL PCBs (tested, confirmed to work, see below) or [Phantom TKL](https://deskthority.net/wiki/Phantom) footprint PCBs
 > [!WARNING]
 > I cannot be held liable if you use any other PCB that doesn't meet these above criteria and something doesn't work
