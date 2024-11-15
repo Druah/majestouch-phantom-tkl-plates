@@ -8,6 +8,9 @@ These are modified [Phantom TKL keyboard plate files](https://github.com/mohitg1
 - US-ANSI layout with 6.25U bottom row
 - All south-facing Cherry-style plate mount stabilizers
 
+## Downloads
+Check the [releases tab](https://github.com/Druah/majestouch-phantom-tkl-plates/releases/) in this repository
+
 ## Gallery
 (Photos courtesy of christian)
 
