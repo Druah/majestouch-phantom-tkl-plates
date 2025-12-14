@@ -2,7 +2,7 @@
 These are modified [Phantom TKL keyboard plate files](https://github.com/mohitg11/GH-CAD-Resources) with a *completely fixed* layout, and a controller cutout that makes these compatible with OEM Filco Majestouch 2 TKL PCBs  
 
 ## Compatibility
-- OEM Filco Majestouch 2 TKL PCBs (tested, confirmed to work, see below) or [Phantom TKL](https://deskthority.net/wiki/Phantom) footprint PCBs
+- OEM Filco Majestouch 2 TKL PCBs (tested, confirmed to work, see below) or [Phantom TKL (archived)](https://web.archive.org/web/20241225174002/https://deskthority.net/wiki/Phantom) footprint PCBs
 > [!WARNING]
 > I cannot be held liable if you use any other PCB that doesn't meet these above criteria and something doesn't work
 - US-ANSI layout with 6.25U bottom row
