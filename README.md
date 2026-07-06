@@ -1,15 +1,19 @@
 # What is this?
-These are modified [Phantom TKL keyboard plate files](https://github.com/mohitg11/GH-CAD-Resources) with a *completely fixed* layout, and a controller cutout that makes these compatible with OEM Filco Majestouch 2 TKL PCBs  
+These are modified [Phantom TKL keyboard plate files](https://github.com/mohitg11/GH-CAD-Resources) with a *completely fixed* layout, and a controller cutout that makes these compatible with OEM Filco Majestouch 2 TKL PCBs.  
 
 ## Compatibility
 - OEM Filco Majestouch 2 TKL PCBs (tested, confirmed to work, see below) or [Phantom TKL (archived)](https://web.archive.org/web/20241225174002/https://deskthority.net/wiki/Phantom) footprint PCBs
 > [!WARNING]
-> I cannot be held liable if you use any other PCB that doesn't meet these above criteria and something doesn't work
+> I cannot be held liable if you use any other PCB that doesn't meet these above criteria and something doesn't work.
 - US-ANSI layout with 6.25U bottom row
 - All south-facing Cherry-style plate mount stabilizers
 
 ## Downloads
 Check the [releases tab](https://github.com/Druah/majestouch-phantom-tkl-plates/releases/) in this repository
+> [!IMPORTANT]
+> The plate mount stabilizer cutouts require attention to detail, as to **<ins>not</ins>** have them manufactuered with ***too big*** of a corner radius. Not doing so may result in sluggish feeling stabilizers that bind, or do not return properly.
+> 
+> **If you already have a plate manufactured and encounter such issues, *lightly filing* the [inside corners](https://github.com/user-attachments/assets/acf44bb7-c9a2-4234-8a04-ca24145c2dd6) of the stabilizer cutouts until the corners are square may mitigate this.**
 
 ## Gallery
 (Photos courtesy of christian)
